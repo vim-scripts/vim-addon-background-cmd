@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1582
+
+see Example in doc
+
+using KISS implementation now
+
+Use vim-addon-manager to install this plugin:
+http://www.vim.org/scripts/script.php?script_id=2905
+
+git repo: http://github.com/MarcWeber/vim-addon-background-cmd
+
+renamed from runtaskinbackground -> vim-addon-background-cmd
